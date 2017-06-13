@@ -1,2 +1,1 @@
-hello
-change from terminal
+puts "Hello world"
